@@ -1,0 +1,77 @@
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('https://photo.coolenjoy.co.kr/data/editor/2208/thumb-da10f17ca0fd87aeccff57cc6a9b5e549549677b.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(3px);
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.swiper-group {
+  position: relative;
+  padding-bottom: 80px;
+}
+
+.title {
+  font-family: 'Gaegu', cursive;
+  font-size: 55px;
+  margin: 50px;
+  text-align: center;
+}
+
+.title-highlight {
+  color: #716bca;
+  font-weight: 700;
+}
+
+.swiper {
+  width: 100%;
+  padding-bottom: 150px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+.swiper-slide-img {
+  display: block;
+  width: 100%;
+}
+
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background: transparent;
+  border: 3px solid grey;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  width: 40px;
+  transition: width 0.5s;
+  border-radius: 5px;
+  background: black;
+  border: 1px solid transparent;
+}
+
+.swiper-img-source {
+  position: absolute;
+  bottom: 50px;
+  right: 30px;
+  font-size: 13px;
+  display: block;
+}
+
+.is-active {
+  transform: scale(1.2) translateY(30px);
+  transition: all 0.5s linear;
+}
