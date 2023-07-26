@@ -75,3 +75,9 @@ body::before {
   transform: scale(1.2) translateY(30px);
   transition: all 0.5s linear;
 }
+
+@media (max-width: 560px) {
+  .title {
+    font-size: 45px;
+  }
+}
