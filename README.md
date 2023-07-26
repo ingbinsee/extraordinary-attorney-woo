@@ -1,32 +1,28 @@
-<br/>
+# 🐋&nbsp;&nbsp;이상한 변호사 우영우 명대사
 
-# 🐋 이상한 변호사 우영우 명대사
-<br/>
+## 🎙️&nbsp;&nbsp;소개
 
-## 🎙️ 소개 
+<img alt="이상한 변호사 우영우 명대사 페이지" src="https://github.com/ingbinsee/extraordinary-attorney-woo/assets/140426866/33068372-bb06-4541-8051-eb6472a5bd4b"> <br/>
 
-
-<img alt="이상한 변호사 우영우 명대사 페이지" src="https://github.com/ingbinsee/extraordinary-attorney-woo/assets/140426866/33068372-bb06-4541-8051-eb6472a5bd4b"> <br/><br/>
-
-### [사이트 바로가기](extraordinary-attorney-woo.netlify.app) <br/><br/>
+### [사이트 바로가기](extraordinary-attorney-woo.netlify.app) <br/>
 
 > 개발 기간: 2023년 7월 25일 ~ 2023년 7월 26일
-<br/>
+> <br/>
 
-## ⚒️ 기술스택
+## ⚒️&nbsp;&nbsp;기술스택
 
 <img src="https://skillicons.dev/icons?i=html,css,js,netlify"/>
 <br/>
 
-## 🏛️ 설계
+## 🏛️&nbsp;&nbsp;설계
 
 - 드라마 속 명대사를 입체적으로 보여줄 수 있도록 한다. <br/>
 - 이미지를 클릭 시 확대하여 볼 수 있도록 한다. <br/>
 - 마우스, 키보드로 모두 조작할 수 있도록 한다. <br/>
 - 드라마와 관련있는 이미지를 배경으로 하되 주요 내용이 잘 보일 수 있도록 한다.
-<br/>
+  <br/>
 
-## 💻 기능
+## 💻&nbsp;&nbsp;기능
 
 ### 1. CoverFlow Effect
 
@@ -56,9 +52,9 @@
 - &lt;body&gt;에 가상요소 선택자를 활용하여 배경 이미지를 넣는다. <br/>
 - blur와 opacity를 활용하여 배경을 흐리게 처리한다. <br/>
 - z-index를 음수로 처리하여 z축의 index 순서를 최하단으로 배치한다.
-<br/>
+  <br/>
 
-## 💯 평가
+## 💯&nbsp;&nbsp;평가
 
 ### 1. Swiper 활용
 
