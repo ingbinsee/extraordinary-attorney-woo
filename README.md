@@ -4,7 +4,7 @@
 
 <img alt="이상한 변호사 우영우 명대사 페이지" src="https://github.com/ingbinsee/extraordinary-attorney-woo/assets/140426866/33068372-bb06-4541-8051-eb6472a5bd4b"> <br/>
 
-### [사이트 바로가기](https://extraordinary-attorney-woo.netlify.app/) <br/>
+### [사이트 바로가기](https://wooyoungwoo.vercel.app/) <br/>
 
 > 개발 기간: 2023년 7월 25일 ~ 2023년 7월 26일
 
